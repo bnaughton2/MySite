@@ -81,9 +81,21 @@
     ],
     "experience": [
       {
+        "company": "Test Company",
+        "title": " Developer",
+        "years": "12.2023 - present",
+        "mainTech": [
+          "React.js"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript"
+        ]
+      },
+      {
         "company": "DefOpenSource",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "10.2019 - 12.2020",
         "mainTech": [
           "Angular 8/9/10"
         ],
