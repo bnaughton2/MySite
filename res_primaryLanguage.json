@@ -1,0 +1,166 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "My name is Bobby Naughton and I am a recent graduate from The University of Scranton with a degree in Computer Science. I've been programming for over 5 years and have worked on many projects, for myself, school and professionally. I am passionate about development and enjoy building innovative software. I am currently working as a freelance Full Stack Developer and am searching for a full time position as a Software Engineer.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "KPI Dashboard",
+        "startDate": "2024",
+        "description": "This is a full stack web application that I created for a local business that I was contracted by. It provides real time sales/profit metrics to managers and the owner of the company. It does this by periodically collecting sales data throughout the day which is parsed and displayed to the user.",
+        "images": [
+          "images/portfolio/OGSS/OGSSPic.png",
+          "images/portfolio/OGSS/OGSSLogin.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Multiplayer Chess",
+        "startDate": "2023",
+        "description": "This is a React web app that connects two users with Socket.io to be able play a multiplayer chess game. I used JavaScript, react-chessboard and Chess.js to build this application.",
+        "images": [
+          "images/portfolio/Chess/Chess.PNG"
+        ],
+        "url": "https://github.com/bnaughton2/multiplayer-chess",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-socketio-plain",
+            "name": "Socket.io"
+          }
+        ]
+      },
+      {
+        "title": "Budgeting Tool",
+        "startDate": "2022",
+        "description": "This is a full stack web application that I created for my senior capstone project during college. It is a budgeting tool for personal finances that allows a user to enter their income, bills and savings goals and tracks their progress over time. I built this app using React.js for the frontend with Django and MySQL for the backend.",
+        "images": [
+          "images/portfolio/Budget/BudgetTool.PNG",
+          "images/portfolio/Budget/Bills.PNG",
+          "images/portfolio/Budget/Income.PNG"
+        ],
+        "url": "https://github.com/bnaughton2/Budgeting-Tool",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Independent Contractor",
+        "title": "Full Stack Developer",
+        "years": "09/2023 - Present",
+        "mainTech": [
+          "Web Development"
+        ],
+        "technologies": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "PHP",
+          "Python",
+          "MySQL",
+          "AWS"
+        ]
+      },
+      {
+        "company": "FrontlineAI",
+        "title": "Front-End Developer",
+        "years": "05/2023 - 09/2023",
+        "mainTech": [
+          "Web Development"
+        ],
+        "technologies": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "PicoVoice",
+          "AWS",
+          "Low Code Platform"
+        ]
+      },
+      {
+        "company": "Zudy",
+        "title": "Lead Application Developer Intern",
+        "years": "05/2022 - 08/2022",
+        "mainTech": [
+          "Low Code/No Code"
+        ],
+        "technologies": [
+          "Vinyl",
+          "Data Modeling",
+          "SQL",
+          "Agile",
+          "Leadership"
+        ]
+      },
+      {
+        "company": "Zudy",
+        "title": "Application Developer Intern",
+        "years": "05/2021 - 08/2021",
+        "mainTech": [
+          "Low Code/No Code"
+        ],
+        "technologies": [
+          "Vinyl",
+          "Data Modeling",
+          "SQL",
+          "Agile"
+        ]
+      }
+    ]
+  }
